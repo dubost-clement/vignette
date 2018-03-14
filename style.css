@@ -1,0 +1,74 @@
+nav{
+    background-color: aquamarine;
+    text-align: center;
+    height: 57px;
+}
+
+ul{
+
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px;
+    line-height: 57px;
+    color: black;
+}
+
+a:hover{
+    background-color: bisque;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+figure.un{
+    height: 200px;
+    width: 300px;
+    background-color: brown;
+}
+
+
+figure.deux{
+    height: 200px;
+    width: 300px;
+    background-color: burlywood;
+}
+
+figure.trois{
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+}
+
+figure.quatre{
+    height: 200px;
+    width: 300px;
+    background-color: green;
+}
+
+.menuactive{
+    background-color: bisque;
+
+}
+
+.menuhidden{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px;
+    line-height: 57px;
+    color: black;
+}
+
+.test{
+    background-color: black;
+}
