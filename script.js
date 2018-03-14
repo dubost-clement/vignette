@@ -11,7 +11,7 @@ var lien = document.querySelector("nav").querySelectorAll("a");
         menuActive.classList.remove("menuactive");
     }
 
-
+    /* vignette */ 
 var un = document.querySelector(".un");
 var deux = document.querySelector(".deux");
 var trois = document.querySelector(".trois");
